@@ -1,0 +1,4 @@
+{
+    "container.imageLocation": "https://livinNector.github.io/wasm-containers/containers/alpine-bash.wasm.gz",
+    "container.imageWithDecompression": true
+}
